@@ -1,0 +1,27 @@
+body{
+	font-family: 'Exo', sans-serif;
+	background-image: url("images/background.jpg");
+}
+
+h1{
+	text-align:center;
+	color: white;
+}
+
+canvas{
+	display:block;
+	margin:auto;
+	border:1px #000 solid;
+	background-image: url("images/highnoon.jpg");
+}
+
+#myTime{
+	width:500px;
+	background-color:#CCCCCC;
+	display:block;
+	margin:auto;
+	font-size:36px;
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;
+	font-weight:700;
+}
